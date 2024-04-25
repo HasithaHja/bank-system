@@ -27,7 +27,7 @@
         <Label text="Password:"/>
         <TextField fx:id="password_fld" styleClass="input_field"/>
         <Button fx:id="login_btn" mnemonicParsing="false" prefHeight="30.0" prefWidth="350.0"
-                style="-fx-background-color: #132A13;" text="Button"/>
-        <Label fx:id="error_lbl" styleClass="error_lbl" text="Error:"/>
+                style="-fx-background-color: #132A13;" text="Login"/>
+        <Label fx:id="error_lbl" styleClass="error_lbl"/>
     </VBox>
 </AnchorPane>
